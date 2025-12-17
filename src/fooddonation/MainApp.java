@@ -27,7 +27,7 @@ public class MainApp {
                 case 3:
                     System.exit(0);
                 default:
-                    System.out.println("Invalid choice!");
+                    System.out.println("Invalid choice!!");
             }
         }
     }
